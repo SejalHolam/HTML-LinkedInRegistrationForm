@@ -1,0 +1,29 @@
+h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration:underline;
+  text-transform: uppercase;
+}
+
+body {
+    font-family:"Georgia", serif;
+    background-color: rgb(255, 253, 208);
+}
+div {
+  border:3px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 60px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  padding-left: 80px;
+}
+.button{
+  background-color: rgb(16, 1, 29);
+  color:rgb(255, 253, 208);
+  box-shadow: 3px 3px coral;
+}
+
+
+
